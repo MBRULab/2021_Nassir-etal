@@ -1,2 +1,4 @@
 # 2021_Nassir-etal
-Single Cell Transcriptome Identifies FCGR3B Upregulated Subtype of Alveolar Macrophages in Patients with Critical COVID-19
+
+This repository contains code related to the manuscript titled "Single Cell Transcriptome Identifies FCGR3B Upregulated Subtype of Alveolar Macrophages in Patients with Critical COVID-19" 
+
