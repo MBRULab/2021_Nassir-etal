@@ -1,0 +1,6 @@
+Deprez et al., 2020 - https://www.genomique.eu/cellbrowser/HCA/
+Madissoon et al., 2019 - https://cellgeni.cog.sanger.ac.uk/tissue-stability/lung.cellxgene.h5ad
+Liao et al., 2020 - GSE145926
+peripheral blood mononuclear cells (PBMC) RNAseq data - GSE152418 
+Nasopharyngeal RNAseq data - GSE152075 
+BALF single cell data - GSE155249 
